@@ -8,6 +8,8 @@ services:
       - ./volumen/world:/opt/minecraft/world
       - ./volumen/eula.txt:/opt/minecraft/eula.txt
       - ./volumen/server.properties:/opt/minecraft/server.properties
+      - ./volumen/ops.json:/opt/minecraft/ops.json  
+    restart: "always"    
     networks:
       - mine_network
 
