@@ -1,0 +1,17 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./volumen/world:/opt/minecraft/world
+      - ./volumen/eula.txt:/opt/minecraft/eula.txt
+      - ./volumen/server.properties:/opt/minecraft/server.properties
+    networks:
+      - mine_network
+
+networks:
+  mine_network:
+    external: true
+  
