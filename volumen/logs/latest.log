@@ -1,0 +1,125 @@
+[04:09:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:09:30] [ServerMain/INFO]: Loaded 1370 recipes
+[04:09:30] [ServerMain/INFO]: Loaded 1481 advancements
+[04:09:30] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[04:09:30] [Server thread/INFO]: Loading properties
+[04:09:30] [Server thread/INFO]: Default game type: SURVIVAL
+[04:09:30] [Server thread/INFO]: Generating keypair
+[04:09:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:09:30] [Server thread/INFO]: Using epoll channel type
+[04:09:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:09:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:09:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:09:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:09:30] [Server thread/INFO]: Preparing level "Nuevoworld"
+[04:09:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:09:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[04:09:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[04:09:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[04:09:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[04:09:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[04:09:33] [Server thread/INFO]: Time elapsed: 2194 ms
+[04:09:33] [Server thread/INFO]: Done (2.536s)! For help, type "help"
+[04:09:35] [Server thread/INFO]: PDante1897[/172.27.0.1:33570] logged in with entity id 45 at (-1.5, 82.0, 9.5)
+[04:09:35] [Server thread/INFO]: PDante1897 joined the game
+[04:10:56] [Server thread/INFO]: Alcionegg[/172.27.0.1:33154] logged in with entity id 338 at (6.5, 75.0, 5.5)
+[04:10:56] [Server thread/INFO]: Alcionegg joined the game
+[04:12:19] [Server thread/INFO]: Alcionegg has made the advancement [Monster Hunter]
+[04:12:56] [Server thread/INFO]: [Not Secure] [PDante1897] sebas hueco
+[04:13:04] [Server thread/INFO]: [Not Secure] <Alcionegg> si
+[04:13:12] [Server thread/INFO]: Alcionegg has made the advancement [Stone Age]
+[04:14:09] [Server thread/INFO]: Alcionegg has made the advancement [Getting an Upgrade]
+[04:17:47] [Server thread/INFO]: Willis[/172.27.0.1:40412] logged in with entity id 1516 at (-1.5, 86.0, -7.5)
+[04:17:47] [Server thread/INFO]: Willis joined the game
+[04:17:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=6, y=69, z=-8}
+[04:17:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=6, y=69, z=-8}
+[04:17:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=6, y=69, z=-8}
+[04:17:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=6, y=69, z=-7}
+[04:17:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=10, y=67, z=-13}
+[04:18:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=4, y=68, z=-18} ji{x=2, y=70, z=-15}
+[04:18:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=4, y=68, z=-18} ji{x=1, y=71, z=-15}
+[04:18:05] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=4, y=68, z=-18} ji{x=1, y=71, z=-16}
+[04:18:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2, y=70, z=-17} ji{x=2, y=70, z=-15}
+[04:18:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2, y=70, z=-17} ji{x=3, y=69, z=-15}
+[04:18:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=7, y=68, z=-12}
+[04:18:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=7, y=68, z=-11}
+[04:18:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=7, y=68, z=-12}
+[04:18:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=6, y=68, z=-12}
+[04:18:10] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=6, y=68, z=-12}
+[04:18:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=8, y=68, z=-11}
+[04:18:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=8, y=68, z=-11}
+[04:18:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3, y=70, z=-17} ji{x=9, y=67, z=-12}
+[04:18:14] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=10, y=67, z=-17} ji{x=10, y=67, z=-16}
+[04:18:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=10, y=67, z=-17} ji{x=4, y=69, z=-12}
+[04:18:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=10, y=67, z=-17} ji{x=3, y=69, z=-14}
+[04:22:08] [Server thread/INFO]: Willis has made the advancement [Getting an Upgrade]
+[04:22:49] [Server thread/INFO]: PDante1897 has made the advancement [Stone Age]
+[04:23:54] [Server thread/INFO]: Willis has made the advancement [Stone Age]
+[04:23:57] [Server thread/INFO]: PDante1897 lost connection: Disconnected
+[04:23:57] [Server thread/INFO]: PDante1897 left the game
+[04:24:36] [Server thread/INFO]: PDante1897[/172.27.0.1:48320] logged in with entity id 2837 at (1.300000011920929, 72.0, -10.695627062511658)
+[04:24:36] [Server thread/INFO]: PDante1897 joined the game
+[04:24:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-2, y=73, z=-12}
+[04:24:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-2, y=72, z=-12}
+[04:24:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-1, y=72, z=-13}
+[04:24:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-1, y=72, z=-13}
+[04:24:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-1, y=73, z=-13}
+[04:24:42] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-13}
+[04:24:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-1, y=72, z=-14}
+[04:24:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-1, y=72, z=-14}
+[04:24:43] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=-1, y=72, z=-13}
+[04:24:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-13}
+[04:24:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-13}
+[04:24:44] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-14}
+[04:24:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-13}
+[04:24:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-14}
+[04:24:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-13}
+[04:24:45] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-13}
+[04:24:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-14}
+[04:24:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-14}
+[04:24:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=1, y=71, z=-14}
+[04:24:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-13}
+[04:24:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-14} ji{x=0, y=71, z=-12}
+[04:24:59] [Server thread/INFO]: Alcionegg lost connection: Disconnected
+[04:24:59] [Server thread/INFO]: Alcionegg left the game
+[04:25:30] [Server thread/INFO]: Alcionegg[/172.27.0.1:47306] logged in with entity id 2955 at (16.48702621651711, 67.0, -15.650420439630023)
+[04:25:30] [Server thread/INFO]: Alcionegg joined the game
+[04:25:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=0, y=0, z=0} ji{x=-3, y=73, z=-12}
+[04:34:07] [Server thread/INFO]: PDante1897 has made the advancement [Getting an Upgrade]
+[04:48:57] [Server thread/INFO]: Willis has made the advancement [Monster Hunter]
+[04:49:37] [Server thread/INFO]: Alcionegg has made the advancement [Acquire Hardware]
+[04:49:44] [Server thread/INFO]: PDante1897 has made the advancement [Acquire Hardware]
+[04:49:50] [Server thread/INFO]: Alcionegg has made the advancement [Isn't It Iron Pick]
+[04:50:11] [Server thread/INFO]: PDante1897 has made the advancement [Isn't It Iron Pick]
+[04:57:20] [Server thread/INFO]: Willis has made the advancement [Acquire Hardware]
+[04:57:26] [Server thread/INFO]: Alcionegg has made the advancement [Diamonds!]
+[04:58:01] [Server thread/INFO]: Willis has made the advancement [Isn't It Iron Pick]
+[05:02:52] [Server thread/INFO]: PDante1897 has made the advancement [Monster Hunter]
+[05:02:58] [Server thread/INFO]: Willis has made the advancement [Diamonds!]
+[05:07:36] [Server thread/INFO]: PDante1897 was slain by Zombie
+[05:14:55] [Server thread/INFO]: Willis has made the advancement [Suit Up]
+[05:17:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=127, y=63, z=70} ji{x=127, y=62, z=72}
+[05:18:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=20, y=67, z=-28} ji{x=19, y=65, z=-26}
+[05:18:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=20, y=67, z=-28} ji{x=19, y=65, z=-26}
+[05:22:03] [Server thread/INFO]: PDante1897 has made the advancement [A Seedy Place]
+[05:22:27] [Server thread/INFO]: Alcionegg has made the advancement [A Seedy Place]
+[05:27:34] [Server thread/INFO]: Alcionegg has made the advancement [Suit Up]
+[05:28:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=25, y=65, z=-68} ji{x=15, y=66, z=-4}
+[05:28:57] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=25, y=65, z=-68} ji{x=16, y=65, z=-3}
+[05:28:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=17, y=65, z=-3} ji{x=16, y=65, z=0}
+[05:30:28] [Server thread/INFO]: Willis has made the advancement [The Parrots and the Bats]
+[05:30:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=18, y=72, z=78} ji{x=17, y=71, z=76}
+[05:30:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=16, y=72, z=75} ji{x=14, y=71, z=74}
+[05:30:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=16, y=72, z=75} ji{x=14, y=71, z=74}
+[05:30:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=15, y=72, z=74} ji{x=17, y=71, z=72}
+[05:30:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=15, y=72, z=74} ji{x=17, y=71, z=72}
+[05:31:57] [Server thread/INFO]: PDante1897 lost connection: Disconnected
+[05:31:57] [Server thread/INFO]: PDante1897 left the game
+[05:31:58] [Server thread/INFO]: Alcionegg lost connection: Disconnected
+[05:31:58] [Server thread/INFO]: Alcionegg left the game
+[05:32:01] [Server thread/INFO]: Willis lost connection: Disconnected
+[05:32:01] [Server thread/INFO]: Willis left the game
+[05:33:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:36:37] [Server thread/INFO]: Stopping server
+[05:36:37] [Server thread/INFO]: Saving players
+[05:36:37] [Server thread/INFO]: Saving worlds
