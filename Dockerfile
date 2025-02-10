@@ -1,6 +1,6 @@
 FROM debian:11
 
-# servidor para minecraft 1.21.4
+# servidor 1.21.4
 
 RUN apt-get update && apt-get install -y wget gnupg
 
@@ -17,26 +17,26 @@ RUN wget https://download.oracle.com/java/23/latest/jdk-23_linux-x64_bin.deb
 RUN apt install ./jdk-23_linux-x64_bin.deb
 
 
-# instalamos el servidor de minecraft
-RUN mkdir /opt/minecraft
-WORKDIR /opt/minecraft
-RUN cd /opt/minecraft
+# instalamos el servidor
+RUN mkdir /opt/server
+WORKDIR /opt/server
+RUN cd /opt/server
 
 #copiamos el archivo eula.txt
-COPY ./volumen/eula.txt /opt/minecraft/eula.txt
+COPY ./volumen/eula.txt /opt/server/eula.txt
 
 #opiamos el archivo server.properties
-COPY ./volumen/server.properties /opt/minecraft/server.properties
+COPY ./volumen/server.properties /opt/server/server.properties
 
-COPY ./volumen/ops.json /opt/minecraft/ops.json
+COPY ./volumen/ops.json /opt/server/ops.json
 
-# descargamos el servidor de minecraft
+# descargamos el servidor
 RUN wget https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar
 
 #exponemos el puerto 25565
 EXPOSE 25565
 
-# ejecutamos el servidor de minecraft
+# ejecutamos el servidor
 RUN apt-get install -y tmux
 
 #CMD ["tmux", "new-session", "-d", "-s", "minecraft", "java", "-Xmx1024M", "-Xms1024M", "-jar", "server.jar", "nogui"]
