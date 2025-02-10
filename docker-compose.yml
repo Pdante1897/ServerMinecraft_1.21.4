@@ -6,11 +6,11 @@ services:
     ports:
       - "25565:25565"
     volumes:
-      - ./volumen:/opt/minecraft
+      - ./volumen:/opt/server
     networks:
-      - mine_network
+      - server_network
 
 networks:
-  mine_network:
+  server_network:
     external: true
   
