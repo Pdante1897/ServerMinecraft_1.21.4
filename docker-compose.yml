@@ -1,6 +1,6 @@
 version: '3'
 services:
-  servidor:
+  server:
     stdin_open: true
     build: .
     ports:
